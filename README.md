@@ -2,7 +2,7 @@
 ## Ubuntu 16.04
 ### Basic
 #### To do list
-[] config file
-[] apt/pip mirror setting
-[] nvidia driver install
-[] docker & nvidia-docker install
+1. config file
+2. apt/pip mirror setting
+3. nvidia driver install
+4. docker & nvidia-docker install
