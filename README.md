@@ -13,7 +13,7 @@ this project is a scaffold when you set up a machine. We collect robust and effi
 4. [ ] docker & nvidia-docker install(priority is high)
 5. [ ] setup ss
 
-**netdata overview:**
+### real-time machine monitor overview
 
 ![image](https://cloud.githubusercontent.com/assets/2662304/14093128/4d566494-f554-11e5-8ee4-5392e0ac51f0.gif "netdata")
 
