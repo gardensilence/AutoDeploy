@@ -2,6 +2,11 @@
 
 this project is a scaffold when you set up a machine. We collect robust and efficient tools to speed up development.
 
+Inspired by [Kiss principle](https://en.wikipedia.org/wiki/KISS_principle), we believe that most systems work best if they are kept simple rather than made complicated.
+
+- ** one script for one thing **
+
+
 ### To do list
 
 1. [x] expose machine to public Internet by frp automatically on startup, so we can access our machine everywhere.
