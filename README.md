@@ -16,7 +16,7 @@
 
 **netdata overview:**
 
-![image](./imgs/netdata.png "netdata")
+![image](https://cloud.githubusercontent.com/assets/2662304/14093128/4d566494-f554-11e5-8ee4-5392e0ac51f0.gif "netdata")
 
 netdata official [site](https://github.com/firehol/netdata).
 
