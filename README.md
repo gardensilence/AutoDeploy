@@ -1,10 +1,8 @@
-# AutoDeploy
-## Ubuntu 18.04
+## AutoDeploy on Ubuntu 18.04
 
 this project is a scaffold when you set up a machine. We collect robust and efficient tools to speed up development.
 
-### Basic
-#### To do list
+### To do list
 
 1. [x] expose machine to public Internet by frp automatically on startup, so we can access our machine everywhere.
 1. [x] monitor machine status automatically on startup
