@@ -23,3 +23,19 @@ Inspired by [Kiss principle](https://en.wikipedia.org/wiki/KISS_principle), we b
 ![image](https://cloud.githubusercontent.com/assets/2662304/14093128/4d566494-f554-11e5-8ee4-5392e0ac51f0.gif "netdata")
 
 netdata official [site](https://github.com/firehol/netdata).
+
+
+### shadowsocks install
+
+```
+sudo  ./ss.sh
+```
+
+test on command line:
+```
+sslocal -c /etc/shadowsocks/config.json
+export http_proxy="http://127.0.0.1: 7050"
+export https_proxy="http://127.0.0.1: 7050"
+
+wget www.google.com
+```
